@@ -27,10 +27,9 @@
           Contoh:
 
           ```python
-             1. from_unit = "g"  # satuan asli (gram)
-             2. to_unit = "kg"  # satuan yang akan
-                dikonversi (kilogram)
-             3. nilai = 50  # nilai berat dalam gram
+             from_unit = "g"  # satuan asli (gram):str
+             to_unit = "kg"  # satuan yang akan dikonversi (kilogram):str
+             nilai = 50  # nilai berat dalam gram yang akan dikonversi ke kilogram:float
            ```
           
        3. Panggil fungsi berat dengan parameter 'from_unit', 'to_unit', dan 'nilai':
