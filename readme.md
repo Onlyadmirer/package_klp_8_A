@@ -39,7 +39,7 @@
              nilai harus diisi float/integer
           ```
           
-       4. Panggil fungsi berat dengan parameter 'from_unit', 'to_unit', dan 'nilai':
+       4. Panggil fungsi 'berat' dengan parameter 'from_unit', 'to_unit', dan 'nilai':
 
           ```python
              hasil = convert.berat(from_unit, to_unit, nilai)
