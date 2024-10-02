@@ -15,12 +15,12 @@
 
    1. **Satuan Berat**
    
-       Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'convert'.
+       Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'fraier'.
        Berikut adalah contoh cara penggunaannya:
-       1. Import modul 'convert'
+       1. Import modul 'fraier'
 
           ```python
-             import convert
+             import fraier
           ```
           
        2. Tentukan nilai berat yang ingin dikonversi,    
@@ -42,15 +42,15 @@
        4. Panggil fungsi 'berat' dengan parameter 'from_unit', 'to_unit', dan 'nilai':
 
           ```python
-             hasil = convert.berat(from_unit, to_unit, nilai)
+             hasil = fraier.berat(from_unit, to_unit, nilai)
           ```
           
        5. Contoh lengkap:
 
           ```python
-             import convert
+             import fraier
 
-             hasil = convert.berat("g", "kg", 50)
+             hasil = fraier.berat("g", "kg", 50)
              print(hasil)
 
              Output:
