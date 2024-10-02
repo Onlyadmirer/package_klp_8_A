@@ -32,10 +32,10 @@
              nilai = 50  # nilai berat dalam gram yang akan dikonversi ke kilogram
 
 
-             catatan:\n
-             from_unit harus diisi STRING
-             to_unit harus diisi STRING
-             nilai harus diisi FLOAT/INT
+             CATATAN:
+             from_unit harus diisi string
+             to_unit harus diisi string
+             nilai harus diisi float/integer
           ```
           
        4. Panggil fungsi berat dengan parameter 'from_unit', 'to_unit', dan 'nilai':
