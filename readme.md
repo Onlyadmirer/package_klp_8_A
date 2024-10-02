@@ -1,4 +1,4 @@
-#Project Kelompok 8
+### Project Kelompok 8
 Project ini adalah sebuah unit converter
 Unit converter adalah sebuah alat yang membantu mengubah satuan pengukuran yang berbeda untuk berbagai kuantitas fisik. Dalam kasus Project ini, unit converter dapat mengubah satuan untuk:
 
@@ -10,4 +10,4 @@ Unit converter adalah sebuah alat yang membantu mengubah satuan pengukuran yang 
 
 Tujuannya adalah untuk memudahkan pengguna dalam mengubah satuan pengukuran yang berbeda, sehingga menjadi alat yang berguna untuk kehidupan sehari-hari atau untuk aplikasi ilmiah dan teknik.
 
-#Cara penggunaanya
+### Cara penggunaanya
