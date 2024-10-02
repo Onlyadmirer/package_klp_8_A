@@ -15,7 +15,8 @@
 
    1. **Satuan Berat**
    
-       Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'convert'. Berikut adalah contoh cara penggunaannya:
+       Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'convert'.
+       Berikut adalah contoh cara penggunaannya:
        1. Import modul 'convert'
 
           ```python
