@@ -11,10 +11,10 @@ Unit converter adalah sebuah alat yang membantu mengubah satuan pengukuran yang 
 
 Tujuannya adalah untuk memudahkan pengguna dalam mengubah satuan pengukuran yang berbeda, sehingga menjadi alat yang berguna untuk kehidupan sehari-hari atau untuk aplikasi ilmiah dan teknik.
 
-<<<<<<< HEAD
 #Cara penggunaanya
 
 1. **Satuan Berat**
+   
     Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'convert'. Berikut adalah contoh cara penggunaannya:
     1. Import modul 'convert'
     ```sh
@@ -41,8 +41,6 @@ Tujuannya adalah untuk memudahkan pengguna dalam mengubah satuan pengukuran yang
         50 g adalah 0.05 kg
         ```
 
-=======
-# Cara penggunaanya
->>>>>>> 666845c1dd7c6ef530ae748ffd0af3d9eb7400a0
+
 
 
