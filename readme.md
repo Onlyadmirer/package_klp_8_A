@@ -27,15 +27,15 @@
           Contoh:
 
           ```python
-             from_unit = "g"  # satuan asli (gram):str
-             to_unit = "kg"  # satuan yang akan dikonversi (kilogram):str
-             nilai = 50  # nilai berat dalam gram yang akan dikonversi ke kilogram:float
+             from_unit = "g":str  # satuan asli (gram)
+             to_unit = "kg":str  # satuan yang akan dikonversi (kilogram)
+             nilai = 50:angka(float/integer)  # nilai berat dalam gram yang akan dikonversi ke kilogram
            ```
           
        3. Panggil fungsi berat dengan parameter 'from_unit', 'to_unit', dan 'nilai':
 
           ```python
-             hasil = convert.berat(from_unit, to_unit, nilai)
+             hasil = convert.berat(from_unit:str, to_unit:str, nilai:float/int)
            ```
           
        4. Cetak hasil konversi:
