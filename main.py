@@ -1,3 +1,3 @@
 import convert
 
-print(convert.berat("kg", "g", 10.6))
+print(convert.berat("g", "kg", 50))
