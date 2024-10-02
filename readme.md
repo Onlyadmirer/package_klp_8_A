@@ -19,8 +19,8 @@
        1. Import modul 'convert'
 
           ```python
-              import convert
-           ```
+             import convert
+          ```
           
        2. Tentukan nilai berat yang ingin dikonversi,    
           serta satuan asli dan satuan yang akan dikonversi.
@@ -30,27 +30,28 @@
              from_unit = "g"  # satuan asli (gram)
              to_unit = "kg"  # satuan yang akan dikonversi (kilogram)
              nilai = 50  # nilai berat dalam gram yang akan dikonversi ke kilogram
-           ```
+          ```
           catatan:
           
           from_unit harus diisi STRING
-          
           to_unit harus diisi STRING
-          
           nilai harus diisi FLOAT/INT
           
        4. Panggil fungsi berat dengan parameter 'from_unit', 'to_unit', dan 'nilai':
 
           ```python
-             hasil = convert.berat(from_unit:str, to_unit:str, nilai:float/int)
-           ```
+             hasil = convert.berat(from_unit, to_unit, nilai)
+          ```
           
-       5. Cetak hasil konversi:
+       5. Contoh lengkap:
 
           ```python
-              print(f"{nilai} {from_unit} adalah {hasil} {to_unit}")
+             import convert
 
-              Output:
-              50 g adalah 0.05 kg
-           ```
+             hasil = convert.berat("g", "kg", 50)
+             print(hasil)
+
+             Output:
+             50 g adalah 0.05 kg
+          ```
 
