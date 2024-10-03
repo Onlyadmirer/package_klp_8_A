@@ -54,6 +54,6 @@
              print(hasil)
 
              Output:
-             50 g adalah 0.05 kg
+             0.05 #jadi, 50 gram dikonversi ke kilogram adalah 0.05 kilogram
           ```
 
