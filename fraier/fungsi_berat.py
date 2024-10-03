@@ -17,7 +17,7 @@ def berat(satuan1:str, satuan2:str, nilai:float):
     try:
         # Hitung hasil konversi dengan mengalikan nilai awal dengan nilai satuan1 kemudian dibagi dengan nilai satuan 2
         hasil = nilai * konversi[satuan1]["nilai"] / konversi[satuan2]["nilai"]
-        return f"{hasil:2f.} "
+        return f"{hasil:.2f} "
     except KeyError:
         # Jika input tidak valid, cetak pesan kesalahan
         print("input tidak valid")
