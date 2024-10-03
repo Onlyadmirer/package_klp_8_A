@@ -24,6 +24,6 @@ def kecepatan(satuan1: str, satuan2: str, nilai: float):
     
 
 # Contoh penggunaan
-print(kecepatan("km/h", "m/s", 100))
+# print(kecepatan("km/h", "m/s", 100))
 # print(kecepatan("mph", "km/h", 60))
 # print(kecepatan("m/s", "knot", 20))
