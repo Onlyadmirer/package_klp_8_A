@@ -3,8 +3,8 @@
    Project ini adalah sebuah unit converter.
    Unit converter adalah sebuah alat yang membantu mengubah satuan pengukuran yang berbeda untuk berbagai kuantitas fisik. Dalam kasus Project ini, unit converter dapat mengubah satuan untuk:
 
-   1. **Kecepatan** (misalnya dari km/jam ke hm/jam)
-   2. **Berat** (misalnya dari kilogram ke gram)
+   1. **Berat** (misalnya dari kilogram ke gram)
+   2. **Kecepatan** (misalnya dari km/jam ke hm/jam)
    3. **Suhu** (misalnya dari Celsius ke Fahrenheit)
    4. **Jarak** (misalnya dari kilometer ke meter)
    5. **Waktu** (misalnya dari jam ke menit)
@@ -54,6 +54,6 @@
              print(hasil)
 
              Output:
-             50 g adalah 0.05 kg
+             0.05 #jadi, 50 gram dikonversi ke kilogram adalah 0.05 kilogram
           ```
 
