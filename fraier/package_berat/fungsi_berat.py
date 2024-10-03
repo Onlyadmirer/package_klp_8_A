@@ -27,4 +27,4 @@ def berat(satuan1:str, satuan2:str, nilai:float):
         # Jika input tidak valid, cetak pesan kesalahan
         print("input tidak valid")
         
-    
+
