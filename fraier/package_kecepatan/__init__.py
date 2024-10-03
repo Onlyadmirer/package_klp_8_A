@@ -1,1 +1,0 @@
-from . import fungsi_kecepatan
