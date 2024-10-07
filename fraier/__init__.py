@@ -7,3 +7,6 @@ from .fungsi_waktu import waktu
 from .fungsi_suhu import suhu
 
 from .fungsi_panjang import panjang
+
+from .fungsi_suhu import suhu
+
