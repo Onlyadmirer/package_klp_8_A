@@ -1,7 +1,7 @@
 def suhu(satuan1, satuan2, nilai):
 
     if satuan1 == 'c' and satuan2 == 'f':
-        return ((nilai * 9/5) + 32)
+        return (nilai * 9/5) + 32
     elif satuan1 == 'c' and satuan2 == 'k':
         return (nilai + 273.15)
     elif satuan1 == 'c' and satuan2 == 'r':
@@ -24,5 +24,5 @@ def suhu(satuan1, satuan2, nilai):
         return (nilai * 9/4 + 32)
     elif satuan1 == 'r' and satuan2 == 'k':
         return (nilai * 5/4 + 273.15)
-
-print(suhu("c", "f", 50))
+    
+    return round(nilai, 2)
