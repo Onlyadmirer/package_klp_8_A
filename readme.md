@@ -17,10 +17,10 @@
    
        Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'fraier'.
        Berikut adalah contoh cara penggunaannya:
-       1. Import modul 'fraier'
+       1. Import modul 'vertopy'
 
           ```python
-             import my_package
+             import vertopy
           ```
           
        2. Tentukan nilai berat yang ingin dikonversi,    
@@ -43,15 +43,15 @@
 
 
           ```python
-             hasil = my_oackage.berat(from_unit, to_unit, nilai)
+             hasil = vertopy.berat(from_unit, to_unit, nilai)
           ```
           
        5. Contoh lengkap:
 
           ```python
-             import my_package
+             import vertopy
 
-             hasil = my_oackage.berat("g", "kg", 50)
+             hasil = vertopy.berat("g", "kg", 50)
              print(hasil)
 
              Output:
