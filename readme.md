@@ -20,7 +20,7 @@
        1. Import modul 'fraier'
 
           ```python
-             import fraier
+             import my_package
           ```
           
        2. Tentukan nilai berat yang ingin dikonversi,    
@@ -43,15 +43,15 @@
 
 
           ```python
-             hasil = fraier.berat(from_unit, to_unit, nilai)
+             hasil = my_oackage.berat(from_unit, to_unit, nilai)
           ```
           
        5. Contoh lengkap:
 
           ```python
-             import fraier
+             import my_package
 
-             hasil = fraier.berat("g", "kg", 50)
+             hasil = my_oackage.berat("g", "kg", 50)
              print(hasil)
 
              Output:
