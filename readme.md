@@ -1,6 +1,6 @@
 # Project Kelompok 8
 
-   Project ini adalah sebuah unit converter.
+   Projects ini adalah sebuah unit converter.
    Unit converter adalah sebuah alat yang membantu mengubah satuan pengukuran yang berbeda untuk berbagai kuantitas fisik. Dalam kasus Project ini, unit converter dapat mengubah satuan untuk:
 
    1. **Berat** (misalnya dari kilogram ke gram)
