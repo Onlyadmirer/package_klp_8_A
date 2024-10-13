@@ -13,7 +13,7 @@
 
 # Cara penggunaanya
 
-   1. **Satuan Berat**
+   1. **Konversi Berat**
    
        Untuk mengkonversi berat, Anda dapat menggunakan fungsi 'berat' dari modul 'fraier'.
        Berikut adalah contoh cara penggunaannya:
